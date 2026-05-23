@@ -1,1 +1,1 @@
-# AuseaOS
+# Seaus
